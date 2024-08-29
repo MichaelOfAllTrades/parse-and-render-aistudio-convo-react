@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parse-and-render-aistudio-convo-react/static/css/main.0eb18cb8.css",
+    "main.js": "/parse-and-render-aistudio-convo-react/static/js/main.5a06c5fe.js",
+    "static/js/453.936bd1e3.chunk.js": "/parse-and-render-aistudio-convo-react/static/js/453.936bd1e3.chunk.js",
+    "static/media/logo.svg": "/parse-and-render-aistudio-convo-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/parse-and-render-aistudio-convo-react/index.html",
+    "main.0eb18cb8.css.map": "/parse-and-render-aistudio-convo-react/static/css/main.0eb18cb8.css.map",
+    "main.5a06c5fe.js.map": "/parse-and-render-aistudio-convo-react/static/js/main.5a06c5fe.js.map",
+    "453.936bd1e3.chunk.js.map": "/parse-and-render-aistudio-convo-react/static/js/453.936bd1e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb18cb8.css",
+    "static/js/main.5a06c5fe.js"
+  ]
+}
